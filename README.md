@@ -24,7 +24,7 @@ Work from the `extra` subdirectory for ET assets.
 
 ## Decoding a Token for ET Finder
 
-Similar to contract decoding above, but edit `exgtra/cw20/tokens.csv`.
+Similar to contract decoding above, but edit `extra/cw20/tokens.csv`.
 
 ## Decoding Named Accounts
 
